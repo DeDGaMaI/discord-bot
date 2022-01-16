@@ -1,0 +1,18 @@
+{
+  "name": "dsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dsbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "node": "16.6.1",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.9.1"
+  }
+}
